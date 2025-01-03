@@ -45,7 +45,7 @@ export const Cartdetail = ({ product }) => {
             </div>
 
             <div className=' mx-96'>
-            <span >{price}</span>
+            <span >₹ {price}</span>
              
             </div>
 
